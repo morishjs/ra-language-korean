@@ -4,7 +4,7 @@ module.exports = {
             add_filter: '필터 추가',
             add: '추가',
             back: '뒤로가기',
-            bulk_actions: '1개 항목 선택됨 |||| %{smart_count} 개 항목 선택됨',
+            bulk_actions: '%{smart_count} 개 항목 선택됨',
             cancel: '취소',
             clear_input_value: '값 지우기',
             clone: '복제',
